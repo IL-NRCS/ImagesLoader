@@ -52,5 +52,5 @@ running 'ImagesLoader'. Input is a directory of source images & an output locati
 10/10/2022 - Initial Checkin
 
 
-![Screenshot](https://raw.github.com/IL-NRCS/ImagesLoader/main/images/Example.JPG)
+![Screenshot](https://github.com/IL-NRCS/ImagesLoader/blob/main/Example.JPG)
 
